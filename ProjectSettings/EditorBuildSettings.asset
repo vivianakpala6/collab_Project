@@ -5,9 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Korea.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Italy.unity
+    guid: 5399bcf2ebb45124183cb0d57c6c2862
+  - enabled: 0
+    path: Assets/Korea/EnvironmentKoreaN 4/EnvironmentKoreaN/Korea night.unity
+    guid: f93ddb13a67504797a9ac9c21caad29d
+  - enabled: 1
+    path: Assets/Scenes/Korea morning.unity
+    guid: ac93b828b2e9f498d8d27a2d633a5bff
+  - enabled: 1
+    path: Assets/Scenes/Korea night.unity
+    guid: f06496d327ea89241a77cee54e2b32fb
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
